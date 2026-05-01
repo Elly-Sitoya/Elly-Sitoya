@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Elly-Sitoya
-- 👀 I’m interested in Mobile app, Web app, Desktop app development and much more...
-- 🌱 I’m currently learning at the University of Eastern Africa Baraton persuing Bachelors degree in Software Engineering
-- 💞️ I’m looking to collaborate on Web development, Android application development, and Software testing.
+- 👀 I develop intelligent applications systems that leverage Artificial Intelligence to help businesses with its operations effectively.
+- 🌱 I persuade Bachelors degree in Software Engineering at the University of Eastern Africa Baraton
 - 📫 How to reach me; sitoyaelly@gmail.com / +254759709364
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The term "bug" in computer programming originated from an actual insect. In 1947, when computers were still in their early stages,
